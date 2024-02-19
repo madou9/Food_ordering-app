@@ -13,11 +13,10 @@ const MobileNav = () => {
             <SheetTitle>
                 <span>Welcome to MernEats.com!</span>
             </SheetTitle>
-            <Separator>
-                <SheetDescription className="flex ">
+            <Separator />
+                <SheetDescription className="flex">
                     <Button className="flex-1 font-bold bg-orange-500">Log In</Button>
                 </SheetDescription>
-            </Separator>
         </SheetContent>
     </Sheet>
   )
