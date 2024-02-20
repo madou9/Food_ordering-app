@@ -1,5 +1,4 @@
 import { AppState, Auth0Provider, User } from "@auth0/auth0-react";
-import { log } from "console";
 
 type Props = {
     children : React.ReactNode;
