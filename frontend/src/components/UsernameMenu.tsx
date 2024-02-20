@@ -1,5 +1,5 @@
 import { useAuth0 } from "@auth0/auth0-react"
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@radix-ui/react-dropdown-menu"
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "./ui/dropdown-menu"
 import { CircleUserRound } from "lucide-react"
 import { Link } from "react-router-dom";
 import { Separator } from "./ui/separator";
